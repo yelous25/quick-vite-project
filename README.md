@@ -5,7 +5,7 @@ This is a quickstart project created and used by Yelous for simple projects base
 
 ```
 npm install
-npm run start
+npm run dev
 ```
 
 And then go to `localhost:1234`
